@@ -1,0 +1,13 @@
+{
+  "appId": "com.demo.app",
+  "appName": "demo.app",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {},
+  "plugins": {
+    "PrivacyScreen": {
+      "enable": true
+    }
+  }
+}

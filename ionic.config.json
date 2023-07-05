@@ -1,0 +1,10 @@
+{
+  "name": "demo.app",
+  "integratios": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "integrations": {
+    "capacitor": {}
+  }
+}
