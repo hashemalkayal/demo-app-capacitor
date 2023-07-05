@@ -2,11 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## scripts to run project
 
 you need to install dependencies using
 
 ### `npm i`
+
+to add ios platform folder
+
+### `npx cap add ios`
 
 create build folder to you can run ios app using
 
